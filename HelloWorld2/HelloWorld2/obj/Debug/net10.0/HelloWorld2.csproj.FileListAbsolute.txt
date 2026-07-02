@@ -12,3 +12,4 @@ C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\HelloWorld2\obj\Debug\net10.0
 C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\HelloWorld2\obj\Debug\net10.0\HelloWorld2.pdb
 C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\HelloWorld2\obj\Debug\net10.0\HelloWorld2.genruntimeconfig.cache
 C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\HelloWorld2\obj\Debug\net10.0\ref\HelloWorld2.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\HelloWorld2\obj\Debug\net10.0\HelloWorld2.sourcelink.json

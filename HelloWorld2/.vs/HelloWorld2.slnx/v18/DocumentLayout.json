@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\HelloWorld2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BD72BA5-0BF1-4287-9D60-D14FB63DA6FF}|HelloWorld2\\HelloWorld2.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\helloworld2\\helloworld2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD72BA5-0BF1-4287-9D60-D14FB63DA6FF}|HelloWorld2\\HelloWorld2.csproj|solutionrelative:helloworld2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66EAA7C4-D394-4A90-9C59-AC088E59A8ED}|Variables\\Variables.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\helloworld2\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66EAA7C4-D394-4A90-9C59-AC088E59A8ED}|Variables\\Variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\HelloWorld2\\HelloWorld2\\Program.cs",
-              "RelativeDocumentMoniker": "HelloWorld2\\Program.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\HelloWorld2\\HelloWorld2\\Program.cs",
-              "RelativeToolTip": "HelloWorld2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\HelloWorld2\\Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\HelloWorld2\\Variables\\Program.cs",
+              "RelativeToolTip": "Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T11:00:14.652Z",
+              "WhenOpened": "2026-07-02T13:12:14.504Z",
               "EditorCaption": ""
             }
           ]
