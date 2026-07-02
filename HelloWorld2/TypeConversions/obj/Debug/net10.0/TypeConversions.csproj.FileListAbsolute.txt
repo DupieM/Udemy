@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\bin\Debug\net10.0\TypeConversions.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\bin\Debug\net10.0\TypeConversions.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\bin\Debug\net10.0\TypeConversions.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\bin\Debug\net10.0\TypeConversions.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\bin\Debug\net10.0\TypeConversions.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\TypeConversions.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\TypeConversions.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\TypeConversions.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\TypeConversions.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\refint\TypeConversions.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\TypeConversions.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\TypeConversions.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\HelloWorld2\TypeConversions\obj\Debug\net10.0\ref\TypeConversions.dll
