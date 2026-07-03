@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\bin\Debug\net10.0\CSharpFundamental.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\bin\Debug\net10.0\CSharpFundamental.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\bin\Debug\net10.0\CSharpFundamental.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\bin\Debug\net10.0\CSharpFundamental.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\bin\Debug\net10.0\CSharpFundamental.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\CSharpFundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\CSharpFundamental.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\CSharpFundamental.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\CSharpFundamental.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\CSharpFundamental.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\CSharpFundamental.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\refint\CSharpFundamental.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\CSharpFundamental.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\CSharpFundamental.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\CSharpFundamental\obj\Debug\net10.0\ref\CSharpFundamental.dll
