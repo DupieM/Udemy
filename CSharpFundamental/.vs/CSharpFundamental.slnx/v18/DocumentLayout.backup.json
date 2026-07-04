@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{251E3FAC-D778-4C36-AB80-F55B6F33A8E6}|ArraysPartOne\\ArraysPartOne.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\arrayspartone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{251E3FAC-D778-4C36-AB80-F55B6F33A8E6}|ArraysPartOne\\ArraysPartOne.csproj|solutionrelative:arrayspartone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{568F032F-75AA-4A04-B3C8-4F93B7011EC3}|Strings\\Strings.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568F032F-75AA-4A04-B3C8-4F93B7011EC3}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\ArraysPartOne\\Program.cs",
-              "RelativeDocumentMoniker": "ArraysPartOne\\Program.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\ArraysPartOne\\Program.cs",
-              "RelativeToolTip": "ArraysPartOne\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Strings\\Program.cs",
+              "RelativeToolTip": "Strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T10:22:13.85Z",
+              "WhenOpened": "2026-07-04T16:06:19.918Z",
               "EditorCaption": ""
             }
           ]
