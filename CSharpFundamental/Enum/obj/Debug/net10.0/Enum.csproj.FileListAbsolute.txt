@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\bin\Debug\net10.0\Enum.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\bin\Debug\net10.0\Enum.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\bin\Debug\net10.0\Enum.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\bin\Debug\net10.0\Enum.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\bin\Debug\net10.0\Enum.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\Enum.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\Enum.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\Enum.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\Enum.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\refint\Enum.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\Enum.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\Enum.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\Enum\obj\Debug\net10.0\ref\Enum.dll

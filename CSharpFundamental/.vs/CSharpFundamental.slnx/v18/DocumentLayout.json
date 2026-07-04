@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{568F032F-75AA-4A04-B3C8-4F93B7011EC3}|Strings\\Strings.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{568F032F-75AA-4A04-B3C8-4F93B7011EC3}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DC350B2-D462-48BF-8F48-52C9CF570D4B}|Enum\\Enum.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC350B2-D462-48BF-8F48-52C9CF570D4B}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Strings\\Program.cs",
-              "RelativeDocumentMoniker": "Strings\\Program.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Strings\\Program.cs",
-              "RelativeToolTip": "Strings\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T16:06:19.918Z",
+              "WhenOpened": "2026-07-04T16:40:35.257Z",
               "EditorCaption": ""
             }
           ]
