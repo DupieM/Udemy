@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45A08579-7C64-4139-84C2-B1F5C158B172}|CSharpFundamental\\CSharpFundamental.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\csharpfundamental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A08579-7C64-4139-84C2-B1F5C158B172}|CSharpFundamental\\CSharpFundamental.csproj|solutionrelative:csharpfundamental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A08579-7C64-4139-84C2-B1F5C158B172}|CSharpFundamental\\CSharpFundamental.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\csharpfundamental\\math\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A08579-7C64-4139-84C2-B1F5C158B172}|CSharpFundamental\\CSharpFundamental.csproj|solutionrelative:csharpfundamental\\math\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A08579-7C64-4139-84C2-B1F5C158B172}|CSharpFundamental\\CSharpFundamental.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\csharpfundamental\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A08579-7C64-4139-84C2-B1F5C158B172}|CSharpFundamental\\CSharpFundamental.csproj|solutionrelative:csharpfundamental\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{251E3FAC-D778-4C36-AB80-F55B6F33A8E6}|ArraysPartOne\\ArraysPartOne.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\arrayspartone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251E3FAC-D778-4C36-AB80-F55B6F33A8E6}|ArraysPartOne\\ArraysPartOne.csproj|solutionrelative:arrayspartone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\CSharpFundamental\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpFundamental\\Program.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\CSharpFundamental\\Program.cs",
-              "RelativeToolTip": "CSharpFundamental\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\ArraysPartOne\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysPartOne\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\ArraysPartOne\\Program.cs",
+              "RelativeToolTip": "ArraysPartOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T14:00:44.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculater.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\CSharpFundamental\\Math\\Calculater.cs",
-              "RelativeDocumentMoniker": "CSharpFundamental\\Math\\Calculater.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\CSharpFundamental\\Math\\Calculater.cs",
-              "RelativeToolTip": "CSharpFundamental\\Math\\Calculater.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T17:40:07.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\CSharpFundamental\\Person.cs",
-              "RelativeDocumentMoniker": "CSharpFundamental\\Person.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\CSharpFundamental\\Person.cs",
-              "RelativeToolTip": "CSharpFundamental\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T14:23:17.857Z",
+              "WhenOpened": "2026-07-04T10:22:13.85Z",
               "EditorCaption": ""
             }
           ]

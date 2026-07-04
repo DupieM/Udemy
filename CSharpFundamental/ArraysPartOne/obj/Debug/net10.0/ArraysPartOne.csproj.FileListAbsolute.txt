@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\bin\Debug\net10.0\ArraysPartOne.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\bin\Debug\net10.0\ArraysPartOne.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\bin\Debug\net10.0\ArraysPartOne.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\bin\Debug\net10.0\ArraysPartOne.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\bin\Debug\net10.0\ArraysPartOne.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ArraysPartOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ArraysPartOne.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ArraysPartOne.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ArraysPartOne.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ArraysPartOne.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ArraysPartOne.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\refint\ArraysPartOne.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ArraysPartOne.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ArraysPartOne.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ArraysPartOne\obj\Debug\net10.0\ref\ArraysPartOne.dll
