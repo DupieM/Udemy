@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\bin\Debug\net10.0\ReferenceAndValueTypesPartTwo.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\bin\Debug\net10.0\ReferenceAndValueTypesPartTwo.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\bin\Debug\net10.0\ReferenceAndValueTypesPartTwo.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\bin\Debug\net10.0\ReferenceAndValueTypesPartTwo.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\bin\Debug\net10.0\ReferenceAndValueTypesPartTwo.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ReferenceAndValueTypesPartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ReferenceAndValueTypesPartTwo.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ReferenceAndValueTypesPartTwo.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ReferenceAndValueTypesPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ReferenceAndValueTypesPartTwo.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ReferenceAndValueTypesPartTwo.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\refint\ReferenceAndValueTypesPartTwo.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ReferenceAndValueTypesPartTwo.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ReferenceAndValueTypesPartTwo.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental\ReferenceAndValueTypesPartTwo\obj\Debug\net10.0\ref\ReferenceAndValueTypesPartTwo.dll
