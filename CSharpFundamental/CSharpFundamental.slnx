@@ -2,5 +2,6 @@
   <Project Path="ArraysPartOne/ArraysPartOne.csproj" Id="251e3fac-d778-4c36-ab80-f55b6f33a8e6" />
   <Project Path="CSharpFundamental/CSharpFundamental.csproj" />
   <Project Path="Enum/Enum.csproj" Id="8dc350b2-d462-48bf-8f48-52c9cf570d4b" />
+  <Project Path="ReferenceTypesAndValueTypes/ReferenceTypesAndValueTypes.csproj" Id="50c42ace-dfd0-41e5-b255-9d9acd4c6403" />
   <Project Path="Strings/Strings.csproj" Id="568f032f-75aa-4a04-b3c8-4f93b7011ec3" />
 </Solution>
