@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEB1F143-21A1-4273-B046-0F3DBE8BB25F}|ReferenceAndValueTypesPartTwo\\ReferenceAndValueTypesPartTwo.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\referenceandvaluetypesparttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB1F143-21A1-4273-B046-0F3DBE8BB25F}|ReferenceAndValueTypesPartTwo\\ReferenceAndValueTypesPartTwo.csproj|solutionrelative:referenceandvaluetypesparttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BE95D8D-E98E-4DDC-B19A-7111BE625D8D}|Conditionals\\Conditionals.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE95D8D-E98E-4DDC-B19A-7111BE625D8D}|Conditionals\\Conditionals.csproj|solutionrelative:conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE95D8D-E98E-4DDC-B19A-7111BE625D8D}|Conditionals\\Conditionals.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental\\conditionals\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE95D8D-E98E-4DDC-B19A-7111BE625D8D}|Conditionals\\Conditionals.csproj|solutionrelative:conditionals\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\ReferenceAndValueTypesPartTwo\\Program.cs",
-              "RelativeDocumentMoniker": "ReferenceAndValueTypesPartTwo\\Program.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\ReferenceAndValueTypesPartTwo\\Program.cs",
-              "RelativeToolTip": "ReferenceAndValueTypesPartTwo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Conditionals\\Program.cs",
+              "RelativeDocumentMoniker": "Conditionals\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Conditionals\\Program.cs",
+              "RelativeToolTip": "Conditionals\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T17:35:24.914Z",
+              "WhenOpened": "2026-07-06T10:40:03.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Season.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Conditionals\\Season.cs",
+              "RelativeDocumentMoniker": "Conditionals\\Season.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental\\Conditionals\\Season.cs",
+              "RelativeToolTip": "Conditionals\\Season.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T13:06:03.716Z",
               "EditorCaption": ""
             }
           ]

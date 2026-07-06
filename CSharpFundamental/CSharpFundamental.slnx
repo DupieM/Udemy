@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ArraysPartOne/ArraysPartOne.csproj" Id="251e3fac-d778-4c36-ab80-f55b6f33a8e6" />
+  <Project Path="Conditionals/Conditionals.csproj" Id="1be95d8d-e98e-4ddc-b19a-7111be625d8d" />
   <Project Path="CSharpFundamental/CSharpFundamental.csproj" />
   <Project Path="Enum/Enum.csproj" Id="8dc350b2-d462-48bf-8f48-52c9cf570d4b" />
   <Project Path="ReferenceAndValueTypesPartTwo/ReferenceAndValueTypesPartTwo.csproj" Id="aeb1f143-21a1-4273-b046-0f3dbe8bb25f" />
