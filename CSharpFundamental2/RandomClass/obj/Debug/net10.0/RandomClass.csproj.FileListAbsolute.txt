@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\bin\Debug\net10.0\RandomClass.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\bin\Debug\net10.0\RandomClass.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\bin\Debug\net10.0\RandomClass.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\bin\Debug\net10.0\RandomClass.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\bin\Debug\net10.0\RandomClass.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\RandomClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\RandomClass.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\RandomClass.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\RandomClass.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\RandomClass.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\refint\RandomClass.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\RandomClass.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\RandomClass.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\RandomClass\obj\Debug\net10.0\ref\RandomClass.dll

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42691FE9-2068-443A-9B5E-9C212B4B2BBC}|CSharpFundamental2\\CSharpFundamental2.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental2\\csharpfundamental2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42691FE9-2068-443A-9B5E-9C212B4B2BBC}|CSharpFundamental2\\CSharpFundamental2.csproj|solutionrelative:csharpfundamental2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4AF0463-7918-45EB-A1E2-0A9B6F3E42AC}|RandomClass\\RandomClass.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental2\\randomclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AF0463-7918-45EB-A1E2-0A9B6F3E42AC}|RandomClass\\RandomClass.csproj|solutionrelative:randomclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AA1FE7-C396-FB27-0E9A-3366967091EB}|CSharpFundamental2\\CSharpFundamental2.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental2\\csharpfundamental2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AA1FE7-C396-FB27-0E9A-3366967091EB}|CSharpFundamental2\\CSharpFundamental2.csproj|solutionrelative:csharpfundamental2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\RandomClass\\Program.cs",
+              "RelativeDocumentMoniker": "RandomClass\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\RandomClass\\Program.cs",
+              "RelativeToolTip": "RandomClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T11:22:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\CSharpFundamental2\\Program.cs",
               "RelativeDocumentMoniker": "CSharpFundamental2\\Program.cs",
