@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\bin\Debug\net10.0\CSharpFundamental2.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\bin\Debug\net10.0\CSharpFundamental2.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\bin\Debug\net10.0\CSharpFundamental2.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\bin\Debug\net10.0\CSharpFundamental2.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\bin\Debug\net10.0\CSharpFundamental2.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\CSharpFundamental2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\CSharpFundamental2.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\CSharpFundamental2.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\CSharpFundamental2.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\CSharpFundamental2.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\CSharpFundamental2.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\refint\CSharpFundamental2.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\CSharpFundamental2.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\CSharpFundamental2.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CSharpFundamental2\obj\Debug\net10.0\ref\CSharpFundamental2.dll
