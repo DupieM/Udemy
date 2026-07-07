@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Arrays/Arrays.csproj" Id="c4f54b67-d8ea-4c39-ab5f-c7d63bcd0c69" />
   <Project Path="CSharpFundamental2/CSharpFundamental2.csproj" />
   <Project Path="RandomClass/RandomClass.csproj" Id="a4af0463-7918-45eb-a1e2-0a9b6f3e42ac" />
 </Solution>
