@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AD780FF-131B-4739-A7D2-5DCBDDB7835D}|Strings\\Strings.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental2\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD780FF-131B-4739-A7D2-5DCBDDB7835D}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB1F78B-E63B-4814-96F8-F278BCF73526}|DatesandTime\\DatesandTime.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental2\\datesandtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB1F78B-E63B-4814-96F8-F278BCF73526}|DatesandTime\\DatesandTime.csproj|solutionrelative:datesandtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB95DDF1-1AB9-415B-A14A-5C8101A92EA4}|Lists\\Lists.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental2\\lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB95DDF1-1AB9-415B-A14A-5C8101A92EA4}|Lists\\Lists.csproj|solutionrelative:lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\Strings\\Program.cs",
+              "RelativeToolTip": "Strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T18:42:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\DatesandTime\\Program.cs",
+              "RelativeDocumentMoniker": "DatesandTime\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\DatesandTime\\Program.cs",
+              "RelativeToolTip": "DatesandTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T18:41:34.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\Lists\\Program.cs",
               "RelativeDocumentMoniker": "Lists\\Program.cs",
