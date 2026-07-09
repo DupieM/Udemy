@@ -5,4 +5,5 @@
   <Project Path="Lists/Lists.csproj" Id="cb95ddf1-1ab9-415b-a14a-5c8101a92ea4" />
   <Project Path="RandomClass/RandomClass.csproj" Id="a4af0463-7918-45eb-a1e2-0a9b6f3e42ac" />
   <Project Path="Strings/Strings.csproj" Id="5ad780ff-131b-4739-a7d2-5dcbddb7835d" />
+  <Project Path="TimeSpan/TimeSpan.csproj" Id="c288ef10-dfc2-4e79-9db1-dec4202cffa3" />
 </Solution>
