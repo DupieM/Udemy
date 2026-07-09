@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\bin\Debug\net10.0\DatesandTime.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\bin\Debug\net10.0\DatesandTime.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\bin\Debug\net10.0\DatesandTime.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\bin\Debug\net10.0\DatesandTime.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\bin\Debug\net10.0\DatesandTime.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\DatesandTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\DatesandTime.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\DatesandTime.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\DatesandTime.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\DatesandTime.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\DatesandTime.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\refint\DatesandTime.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\DatesandTime.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\DatesandTime.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\DatesandTime\obj\Debug\net10.0\ref\DatesandTime.dll
