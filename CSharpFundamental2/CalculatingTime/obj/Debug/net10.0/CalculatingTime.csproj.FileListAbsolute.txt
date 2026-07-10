@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\bin\Debug\net10.0\CalculatingTime.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\bin\Debug\net10.0\CalculatingTime.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\bin\Debug\net10.0\CalculatingTime.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\bin\Debug\net10.0\CalculatingTime.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\bin\Debug\net10.0\CalculatingTime.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\CalculatingTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\CalculatingTime.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\CalculatingTime.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\CalculatingTime.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\CalculatingTime.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\CalculatingTime.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\refint\CalculatingTime.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\CalculatingTime.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\CalculatingTime.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamental2\CalculatingTime\obj\Debug\net10.0\ref\CalculatingTime.dll

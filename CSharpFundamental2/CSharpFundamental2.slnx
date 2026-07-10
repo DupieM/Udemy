@@ -1,9 +1,9 @@
 <Solution>
   <Project Path="Arrays/Arrays.csproj" Id="c4f54b67-d8ea-4c39-ab5f-c7d63bcd0c69" />
+  <Project Path="CalculatingTime/CalculatingTime.csproj" Id="39ee82ec-f703-4f3d-9dd9-7042aa5ba9e0" />
   <Project Path="CSharpFundamental2/CSharpFundamental2.csproj" />
   <Project Path="DatesandTime/DatesandTime.csproj" Id="2ab1f78b-e63b-4814-96f8-f278bcf73526" />
   <Project Path="Lists/Lists.csproj" Id="cb95ddf1-1ab9-415b-a14a-5c8101a92ea4" />
   <Project Path="RandomClass/RandomClass.csproj" Id="a4af0463-7918-45eb-a1e2-0a9b6f3e42ac" />
   <Project Path="Strings/Strings.csproj" Id="5ad780ff-131b-4739-a7d2-5dcbddb7835d" />
-  <Project Path="TimeSpan/TimeSpan.csproj" Id="c288ef10-dfc2-4e79-9db1-dec4202cffa3" />
 </Solution>

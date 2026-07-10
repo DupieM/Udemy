@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\TimeSpan\\TimeSpan.csproj",
-      "projectName": "TimeSpan",
-      "projectPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\TimeSpan\\TimeSpan.csproj",
+      "projectUniqueName": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\TimeSpan\\TimeSpanApp.csproj",
+      "projectName": "TimeSpanApp",
+      "projectPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\TimeSpan\\TimeSpanApp.csproj",
       "packagesPath": "C:\\Users\\USER-PC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental2\\TimeSpan\\obj\\",
       "projectStyle": "PackageReference",
