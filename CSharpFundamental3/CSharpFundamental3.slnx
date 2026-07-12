@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="CSharpFundamental3.1/CSharpFundamental3.1.csproj" Id="9b093d59-f72d-4c8f-aae7-3396a0534f81" />
   <Project Path="CSharpFundamental3/CSharpFundamental3.csproj" />
+  <Project Path="CSharpFundamental3_2/CSharpFundamental3_2.csproj" Id="baac120c-f2c4-4ac6-967b-ad62bac4e18d" />
 </Solution>

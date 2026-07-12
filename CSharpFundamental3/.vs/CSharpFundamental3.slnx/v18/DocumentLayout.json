@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B093D59-F72D-4C8F-AAE7-3396A0534F81}|CSharpFundamental3.1\\CSharpFundamental3.1.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental3\\csharpfundamental3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B093D59-F72D-4C8F-AAE7-3396A0534F81}|CSharpFundamental3.1\\CSharpFundamental3.1.csproj|solutionrelative:csharpfundamental3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B093D59-F72D-4C8F-AAE7-3396A0534F81}|CSharpFundamental3.1\\CSharpFundamental3.1.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental3\\csharpfundamental3.1\\stringutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B093D59-F72D-4C8F-AAE7-3396A0534F81}|CSharpFundamental3.1\\CSharpFundamental3.1.csproj|solutionrelative:csharpfundamental3.1\\stringutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAAC120C-F2C4-4AC6-967B-AD62BAC4E18D}|CSharpFundamental3_2\\CSharpFundamental3_2.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental3\\csharpfundamental3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAC120C-F2C4-4AC6-967B-AD62BAC4E18D}|CSharpFundamental3_2\\CSharpFundamental3_2.csproj|solutionrelative:csharpfundamental3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StringUtility.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3.1\\StringUtility.cs",
-              "RelativeDocumentMoniker": "CSharpFundamental3.1\\StringUtility.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3.1\\StringUtility.cs",
-              "RelativeToolTip": "CSharpFundamental3.1\\StringUtility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T18:13:24.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3.1\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpFundamental3.1\\Program.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3.1\\Program.cs",
-              "RelativeToolTip": "CSharpFundamental3.1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3_2\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpFundamental3_2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3_2\\Program.cs",
+              "RelativeToolTip": "CSharpFundamental3_2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T16:14:55.504Z",
+              "WhenOpened": "2026-07-12T18:24:38.408Z",
               "EditorCaption": ""
             }
           ]
