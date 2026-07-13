@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\bin\Debug\net10.0\CSharpFundamentalFinal.exe
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\bin\Debug\net10.0\CSharpFundamentalFinal.deps.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\bin\Debug\net10.0\CSharpFundamentalFinal.runtimeconfig.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\bin\Debug\net10.0\CSharpFundamentalFinal.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\bin\Debug\net10.0\CSharpFundamentalFinal.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\CSharpFundamentalFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\CSharpFundamentalFinal.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\CSharpFundamentalFinal.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\CSharpFundamentalFinal.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\CSharpFundamentalFinal.sourcelink.json
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\CSharpFundamentalFinal.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\refint\CSharpFundamentalFinal.dll
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\CSharpFundamentalFinal.pdb
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\CSharpFundamentalFinal.genruntimeconfig.cache
+C:\Users\USER-PC\Documents\Udemy\Udemy\CSharpFundamentalFinal\CSharpFundamentalFinal\obj\Debug\net10.0\ref\CSharpFundamentalFinal.dll

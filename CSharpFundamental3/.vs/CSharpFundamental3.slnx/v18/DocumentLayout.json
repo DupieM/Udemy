@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B1B65B-D068-4E05-8F56-FCC0C3F5145C}|CSharpFundamental3_5\\CSharpFundamental3_5.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental3\\csharpfundamental3_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B1B65B-D068-4E05-8F56-FCC0C3F5145C}|CSharpFundamental3_5\\CSharpFundamental3_5.csproj|solutionrelative:csharpfundamental3_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3_5\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpFundamental3_5\\Program.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3_5\\Program.cs",
-              "RelativeToolTip": "CSharpFundamental3_5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T15:03:11.991Z",
-              "EditorCaption": ""
             }
           ]
         }
