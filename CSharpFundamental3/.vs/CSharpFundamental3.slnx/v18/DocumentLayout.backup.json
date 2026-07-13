@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAAC120C-F2C4-4AC6-967B-AD62BAC4E18D}|CSharpFundamental3_2\\CSharpFundamental3_2.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental3\\csharpfundamental3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAC120C-F2C4-4AC6-967B-AD62BAC4E18D}|CSharpFundamental3_2\\CSharpFundamental3_2.csproj|solutionrelative:csharpfundamental3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60CCB05B-9DE8-477D-8546-38F6E825952E}|CSharpFundamental3_3\\CSharpFundamental3_3.csproj|c:\\users\\user-pc\\documents\\udemy\\udemy\\csharpfundamental3\\csharpfundamental3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CCB05B-9DE8-477D-8546-38F6E825952E}|CSharpFundamental3_3\\CSharpFundamental3_3.csproj|solutionrelative:csharpfundamental3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3_2\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpFundamental3_2\\Program.cs",
-              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3_2\\Program.cs",
-              "RelativeToolTip": "CSharpFundamental3_2\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3_3\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpFundamental3_3\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Documents\\Udemy\\Udemy\\CSharpFundamental3\\CSharpFundamental3_3\\Program.cs",
+              "RelativeToolTip": "CSharpFundamental3_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T18:24:38.408Z",
+              "WhenOpened": "2026-07-13T10:40:06.117Z",
               "EditorCaption": ""
             }
           ]
