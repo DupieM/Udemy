@@ -5,10 +5,12 @@
         public static void Main(string[] args)
         {
             // DEBUGGING
-            var numbers = new List<int>();
-            var smallests = GetSmallests(null, 1);
+            var numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
+            var smallests = GetSmallests(numbers, 1);
+            //var numbers = new List<int>(); -> part 3 (Defensive Programming)
+            //var smallests = GetSmallests(null, 1);
 
-                        
+
             foreach (var number in smallests)
                 Console.WriteLine(number);
         }
@@ -16,7 +18,7 @@
         public static List<int> GetSmallests(List<int> list, int count)
         {
             // OLD CODE
-            //var smallests = new List<int>(); -> part 1
+            //var smallests = new List<int>(); -> part 1 (Debugging Tools)
 
             //while (smallests.Count < count)
             //{
@@ -25,7 +27,7 @@
             //    list.Remove(min);
             //}
 
-            //var buffer = new List<int>(list); -> part 2
+            //var buffer = new List<int>(list); -> part 2 (Removing Side Effects)
             //var smallests = new List<int>();
 
             //while (smallests.Count < count)
@@ -35,10 +37,10 @@
             //    buffer.Remove(min);
             //}
 
-            // NEW CODE
-            if (list == null)
-                throw new ArgumentNullException("list");
+            //if (list == null) -> part 3 (Defensive Programming)
+            //    throw new ArgumentNullException("list");
 
+            // NEW CODE
             if (count > list.Count || count <= 0)
                 throw new ArgumentOutOfRangeException("count", "Count should be between 1 and the number of elements in the list.");
 
@@ -62,10 +64,8 @@
             for (var i = 1; i < list.Count; i++)
             {
                 // changed > to < 
-                if (list[i] > min)
-                {
+                if (list[i] < min)
                     min = list[i];
-                }
             }
             return min;
         }
